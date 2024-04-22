@@ -1,0 +1,13 @@
+# Core Dependencies
+python >= 3.0  # Or specify an exact version if needed (e.g., python == 3.10.4)
+pinecone-client  # Pinecone Python client
+pandas  # For data manipulation, likely used in QA data handling
+huggingface-hub  # For accessing and utilizing LLaMA models
+ollama  # Additional dependency for interacting with LLaMA
+
+# Optional: Version Pinning (for reproducibility)
+# You can pin specific versions if you want tighter control:
+# pinecone-client==1.15.0 
+# pandas==1.5.2 
+# huggingface-hub==0.10.1
+# ollama==0.1.3  # (Example versions, adjust according to your setup)

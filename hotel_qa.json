@@ -1,0 +1,403 @@
+[
+    
+    {
+        "question": "What time is check-in and check-out?\t1",
+        "answer": "Check-in starts at 3 PM, and check-out is until noon. Early check-in and late check-out are subject to availability and may involve additional charges."
+    },
+    {
+        "question": "Can I request an early check-in or late check-out?\t2",
+        "answer": "Early check-in and late check-out are available upon request and subject to availability. Fees may apply."
+    },
+    {
+        "question": "Do you offer airport shuttle service?\t3",
+        "answer": "We offer a complimentary airport shuttle service from San Francisco International Airport. Please contact the front desk to schedule a pick-up."
+    },
+    {
+        "question": "Is there a fee for parking? Is it on-site or off-site?\t4",
+        "answer": "Parking is available on-site for a daily fee of $45."
+    },
+    {
+        "question": "Do you have free Wi-Fi?\t5",
+        "answer": "Yes, we provide complimentary Wi-Fi throughout the hotel."
+    },
+    {
+        "question": "Are pets allowed in the hotel? Are there any restrictions?\t6",
+        "answer": "Pets are welcome at our hotel. There is a $50 non-refundable fee per stay."
+    },
+    {
+        "question": "What amenities are included in my room?\t7",
+        "answer": "Your room will include a flat-screen TV, a minibar, a coffee maker, and a private bathroom with toiletries."
+    },
+    {
+        "question": "Do you have rooms with a kitchenette?\t8",
+        "answer": "Some of our rooms have kitchenettes. Please request this when making your booking."
+    },
+    {
+        "question": "Are there rooms with accessible features?\t9",
+        "answer": "We offer rooms with accessibility features. Please specify your needs when booking."
+    },
+    {
+        "question": "Can I reserve a room with a view?\t10",
+        "answer": "Rooms with views of the city are available. Please request when booking."
+    },
+    {
+        "question": "What is your cancellation policy?\t11",
+        "answer": "Our cancellation policy allows free cancellation up to 24 hours before arrival. After that, the first night's stay will be charged."
+    },
+    {
+        "question": "Do you have a loyalty program?\t12",
+        "answer": "Yes, we offer a loyalty program where members can earn points towards free nights and receive special perks."
+    },
+    {
+        "question": "What safety protocols do you have in place for COVID-19?\t13",
+        "answer": "We follow CDC guidelines for cleanliness and sanitation to ensure the safety of our guests and staff."
+    },
+    {
+        "question": "Do you offer room service? What are the hours?\t14",
+        "answer": "Room service is available from 7 AM to 10 PM."
+    },
+    {
+        "question": "Is there a restaurant on-site? What are the hours?\t15",
+        "answer": "Our on-site restaurant is open from 7 AM to 11 PM. It offers breakfast, lunch, and dinner."
+    },
+    {
+        "question": "Are there vegan, vegetarian, or gluten-free food options available?\t16",
+        "answer": "We provide a range of vegan, vegetarian, and gluten-free options in our restaurant and room service menus."
+    },
+    {
+        "question": "Can I store my luggage at the hotel before check-in or after check-out?\t17",
+        "answer": "Luggage storage is available on a complimentary basis for guests around check-in and check-out times."
+    },
+    {
+        "question": "Is there a fitness center? What are the hours?\t18",
+        "answer": "We have a 24-hour fitness center available to all guests."
+    },
+    {
+        "question": "Is there a swimming pool? Is it indoor or outdoor?\t19",
+        "answer": "We have an outdoor swimming pool that is open from 8 AM to 10 PM."
+    },
+    {
+        "question": "Are there laundry services available?\t20",
+        "answer": "Laundry services are available with same-day return if submitted before 9 AM."
+    },
+    {
+        "question": "Do you offer dry cleaning services?\t21",
+        "answer": "Dry cleaning services are available upon request."
+    },
+    {
+        "question": "Can I have packages sent to the hotel prior to my arrival?\t22",
+        "answer": "Guests can send packages to the hotel; please use the name under which the reservation was made and inform the front desk."
+    },
+    {
+        "question": "Are there conference rooms available for meetings?\t23",
+        "answer": "Our hotel features several meeting rooms and conference facilities. Please contact our events team for more details."
+    },
+    {
+        "question": "Can you accommodate large groups or events?\t24",
+        "answer": "We can accommodate large groups and events. Please contact our sales team for detailed information and bookings."
+    },
+    {
+        "question": "How far is the hotel from the city center?\t25",
+        "answer": "The hotel is located about 2 miles from the downtown area, easily accessible by public transport."
+    },
+    {
+        "question": "What are the popular attractions near the hotel?\t26",
+        "answer": "Popular attractions near our hotel include Fisherman's Wharf, Alcatraz Island, and the Golden Gate Bridge."
+    },
+    {
+        "question": "Is there public transportation nearby?\t27",
+        "answer": "Public transportation options include buses and trams, with stops within walking distance of the hotel."
+    },
+    {
+        "question": "Can you arrange tours or tickets to local attractions?\t28",
+        "answer": "We can arrange tours and purchase tickets for local attractions. Please contact the concierge for assistance."
+    },
+    {
+        "question": "Are there any ongoing promotional offers?\t29",
+        "answer": "Please visit our website or contact us directly for the latest promotional offers."
+    },
+    {
+        "question": "How can I make a reservation?\t30",
+        "answer": "Reservations can be made online, by phone, or through email."
+    },
+    {
+        "question": "What are the different room types you offer?\t31",
+        "answer": "We offer standard, deluxe, and suite room types."
+    },
+    {
+        "question": "Do you have interconnecting rooms?\t32",
+        "answer": "Interconnecting rooms are available; please request these when making your reservation."
+    },
+    {
+        "question": "What are the bed options available?\t33",
+        "answer": "We have king, queen, and twin bed options available."
+    },
+    {
+        "question": "Can you provide cribs or rollaway beds?\t34",
+        "answer": "Cribs and rollaway beds are available upon request. There may be an additional charge for rollaway beds."
+    },
+    {
+        "question": "Is breakfast included in the room rate?\t35",
+        "answer": "Breakfast is included with some of our rate plans. Please check your specific rate for details."
+    },
+    {
+        "question": "What items are included in the minibar?\t36",
+        "answer": "The minibar includes snacks, non-alcoholic beverages, and some alcoholic drinks."
+    },
+    {
+        "question": "Do you have any spa services?\t37",
+        "answer": "Our spa offers massages, facials, and body treatments. It is advisable to book in advance."
+    },
+    {
+        "question": "What are the check-in requirements?\t38",
+        "answer": "Valid ID and a credit card are required at check-in."
+    },
+    {
+        "question": "Do you require a deposit at check-in?\t39",
+        "answer": "A deposit is required at check-in to cover incidental charges. It is typically $100 per night."
+    },
+    {
+        "question": "What payment methods do you accept?\t40",
+        "answer": "We accept all major credit cards, cash, and travelers checks."
+    },
+    {
+        "question": "Is smoking allowed in the rooms or on the property?\t41",
+        "answer": "Smoking is prohibited in all rooms and public areas of the hotel."
+    },
+    {
+        "question": "Do you have a business center?\t42",
+        "answer": "There is a business center available for guest use, featuring computers and printers."
+    },
+    {
+        "question": "Can I print documents at the hotel?\t43",
+        "answer": "Yes, you can print documents in the business center or request assistance from the front desk."
+    },
+    {
+        "question": "Do you have elevators?\t44",
+        "answer": "Yes, our hotel is equipped with elevators."
+    },
+    {
+        "question": "Are there any additional fees I should be aware of?\t45",
+        "answer": "Additional fees may apply for certain amenities such as parking, pet stays, and room service."
+    },
+    {
+        "question": "Do you provide hair dryers in the rooms?\t46",
+        "answer": "Hair dryers are provided in all bathrooms."
+    },
+    {
+        "question": "Do you offer any child care services?\t47",
+        "answer": "We do not offer childcare services, but we can recommend local options."
+    },
+    {
+        "question": "Are there any medical services available at the hotel?\t48",
+        "answer": "Medical services are not available on-site, but we can assist in contacting nearby facilities if needed."
+    },
+    {
+        "question": "How often are the rooms cleaned?\t49",
+        "answer": "Rooms are cleaned daily. If you have specific housekeeping preferences, please inform the front desk."
+    },
+    {
+        "question": "Can I change my room type after check-in?\t50",
+        "answer": "Room changes are subject to availability and may involve additional charges if upgrading."
+    },
+    {
+        "question": "Do you have a policy for lost items?\t51",
+        "answer": "For lost items, please contact the front desk. We have a log for items found in guest rooms and public areas."
+    },
+    {
+        "question": "Can I bring a visitor to my room?\t52",
+        "answer": "Visitors are allowed in guest rooms but must leave by 10 PM. Overnight stays may incur  additional charges."
+    },
+    {
+        "question": "Are there any discounts for extended stays?\t53",
+        "answer": "Discounts for extended stays are available. Please contact reservations for more details."
+    },
+    {
+        "question": "Do you have any rooms with balconies?\t54",
+        "answer": "Some of our rooms feature balconies. Please request these specifically when booking."
+    },
+    {
+        "question": "What type of heating/cooling system do you have in the rooms?\t55",
+        "answer": "All rooms are equipped with air conditioning and heating, adjustable by the guest."
+    },
+    {
+        "question": "Can I choose the floor of my room?\t56",
+        "answer": "You can request a specific floor when booking, subject to availability."
+    },
+    {
+        "question": "Are there vending machines or any other 24-hour food options?\t57",
+        "answer": "Vending machines are available on several floors, accessible 24/7."
+    },
+    {
+        "question": "Is there a dress code for the hotel restaurant or bar?\t58",
+        "answer": "The hotel restaurant has a smart-casual dress code in the evenings."
+    },
+    {
+        "question": "Do you offer translation services?\t59",
+        "answer": "Translation services are available on request. Please contact the front desk."
+    },
+    {
+        "question": "Are there any cultural norms or local laws I should be aware of?\t60",
+        "answer": "It's important to observe local noise ordinances and smoking laws, as well as hotel policies during your stay."
+    },
+    {
+        "question": "What languages do your staff speak?\t61",
+        "answer": "Our staff speak English, Spanish, Mandarin, and French."
+    },
+    {
+        "question": "Can I pay for my stay with a different currency?\t62",
+        "answer": "We accept US dollars. Currency exchange can be facilitated at the front desk."
+    },
+    {
+        "question": "Do you provide daily newspapers?\t63",
+        "answer": "Complimentary daily newspapers are available in the lobby."
+    },
+    {
+        "question": "Is there a charge for additional guests in the room?\t64",
+        "answer": "Additional charges may apply for more than two adults in a room."
+    },
+    {
+        "question": "What are your housekeeping policies?\t65",
+        "answer": "Housekeeping is offered daily. If you require additional services, please notify the front desk."
+    },
+    {
+        "question": "Can I request hypoallergenic pillows or bedding?\t66",
+        "answer": "Hypoallergenic pillows and bedding are available upon request."
+    },
+    {
+        "question": "What are the television channels available?\t67",
+        "answer": "A variety of local and international channels are available on your room's TV."
+    },
+    {
+        "question": "Do you offer any wellness programs?\t68",
+        "answer": "We offer yoga classes and a running club as part of our wellness programs."
+    },
+    {
+        "question": "Is there a charge for Wi-Fi beyond the basic service?\t69",
+        "answer": "Wi-Fi is complimentary; premium speeds are available for a fee."
+    },
+    {
+        "question": "What are the bathroom amenities provided?\t70",
+        "answer": "Bathroom amenities include towels, toiletries, and a hairdryer."
+    },
+    {
+        "question": "Do you have a rewards program for frequent guests?\t71",
+        "answer": "Our rewards program details can be found on our website or by contacting the front desk."
+    },
+    {
+        "question": "How can I provide feedback on my stay?\t72",
+        "answer": "Guest feedback can be provided through comment cards in your room or online surveys post-stay."
+    },
+    {
+        "question": "Can I book spa appointments in advance?\t73",
+        "answer": "Spa appointments can be booked in advance by contacting our spa directly."
+    },
+    {
+        "question": "Do you have a map of the hotel and its facilities?\t74",
+        "answer": "Maps of the hotel and its facilities are available at the front desk."
+    },
+    {
+        "question": "What are the security features at the hotel?\t75",
+        "answer": "The hotel has 24-hour security and surveillance in public areas."
+    },
+    {
+        "question": "Can I rent a car through the hotel?\t76",
+        "answer": "We can assist with car rentals through our concierge service."
+    },
+    {
+        "question": "What are the dining options within walking distance?\t77",
+        "answer": "There are several dining options within walking distance, including cafes, seafood restaurants, and ethnic cuisine."
+    },
+    {
+        "question": "Are there any running or cycling routes nearby?\t78",
+        "answer": "The hotel provides maps for local running and cycling routes."
+    },
+    {
+        "question": "Can I receive phone calls in my room?\t79",
+        "answer": "Incoming calls can be directed to your room. Please provide the caller with your room number."
+    },
+    {
+        "question": "How do I use the room safe?\t80",
+        "answer": "Instructions for using the room safe are provided in each room, and the front desk can assist if needed."
+    },
+    {
+        "question": "Are there any adult-only areas or times?\t81",
+        "answer": "The pool area is open to all guests; there are no adult-only restrictions."
+    },
+    {
+        "question": "Do you offer any entertainment options?\t82",
+        "answer": "We host live music and entertainment events on weekends."
+    },
+    {
+        "question": "What are the policies for pool use?\t83",
+        "answer": "The pool is open from 8 AM to 10 PM. Children under 16 must be accompanied by an adult."
+    },
+    {
+        "question": "Is there a fee for using the business center?\t84",
+        "answer": "The business center is available for a small fee per usage."
+    },
+    {
+        "question": "What kind of coffee maker is in the room?\t85",
+        "answer": "Rooms are equipped with either a Keurig or a standard drip coffee maker."
+    },
+    {
+        "question": "Can you accommodate special dietary needs?\t86",
+        "answer": "Special dietary needs can be accommodated in our restaurant and through room service."
+    },
+    {
+        "question": "Do you have blackout curtains in the rooms?\t87",
+        "answer": "Blackout curtains are installed in all rooms for your comfort."
+    },
+    {
+        "question": "Are there any hidden costs I should be aware of?\t88",
+        "answer": "There are no hidden costs; all potential fees are outlined at check-in."
+    },
+    {
+        "question": "Can you explain the hotel's environmental policies?\t89",
+        "answer": "Our environmental policies include recycling, energy-efficient lighting, and water conservation measures."
+    },
+    {
+        "question": "Is there a limit to the Wi-Fi devices I can connect?\t90",
+        "answer": "You can connect up to three devices to our Wi-Fi network. More connections are available for a fee."
+    },
+    {
+        "question": "Do you offer discount rates for seniors or military personnel?\t91",
+        "answer": "We offer discounted rates for seniors and military personnel. Please provide identification when booking."
+    },
+    {
+        "question": "What are the noise policies in the hotel?\t92",
+        "answer": "The hotel enforces a quiet hours policy from 10 PM to 7 AM."
+    },
+    {
+        "question": "Do you have a policy on drones or photography?\t93",
+        "answer": "The use of drones and professional photography equipment may require prior approval from management."
+    },
+    {
+        "question": "What is the process for evacuating in case of an emergency?\t94",
+        "answer": "In the event of an emergency, evacuation maps and instructions are provided in each room."
+    },
+    {
+        "question": "Can you accommodate guests with severe allergies?\t95",
+        "answer": "We strive to accommodate guests with severe allergies; please inform us of your needs prior to arrival."
+    },
+    {
+        "question": "How can I access the hotel's recreational facilities?\t96",
+        "answer": "Recreational facilities including the pool, gym, and spa are open to all guests."
+    },
+    {
+        "question": "What local laws pertain to staying at a hotel?\t97",
+        "answer": "Local laws include smoking bans in public places and age requirements for alcohol consumption."
+    },
+    {
+        "question": "Can I update my reservation details?\t98",
+        "answer": "Reservation details can be updated by contacting our reservations department directly."
+    },
+    {
+        "question": "Are there any specific check-out procedures I should follow?\t99",
+        "answer": "Specific check-out procedures include room inspection and final bill settlement."
+    },
+    {
+        "question": "How do I subscribe to your newsletters or promotions?\t100",
+        "answer": "To subscribe to our newsletters or promotions, please provide your email address at check-in or sign up through our website."
+    }
+]
